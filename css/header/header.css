@@ -1,0 +1,80 @@
+.parent-container {
+  width: 100%;
+  border: 1px solid gray;
+  height: 12vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.section-content-one {
+  width: 12%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+}
+
+.keep-icon {
+  width: 40px;
+  height: 40px;
+}
+
+.menu-icon {
+  margin-top: 10px;
+  width: 17px;
+  height: 17px;
+}
+
+.section-content-two {
+  display: flex;
+  width: 40%;
+  /* border: 2px solid blue; */
+  background-color: #e3e3e3;
+}
+
+.search-icon {
+  margin-top: 10px;
+  width: 18px;
+  height: 18px;
+}
+
+.search-field {
+  width: 100%;
+  background-color: #e3e3e3;
+  border: none;
+  outline: none;
+  height: 40px;
+}
+
+.section-content-three {
+  width: 15%;
+  display: flex;
+  justify-content: space-between;
+}
+.refresh-icon{
+  width: 25px;
+  height:25px ;
+}
+
+.setting-icon{
+  width: 25px;
+  height:25px ;
+}
+
+.section-content-four {
+  width: 9%;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20px;
+}
+
+.app-icon{
+  margin-top: 6px;
+  width: 20px;
+  height:20px ;
+}
+
+.user-icon{
+  width: 30px;
+  height:30px ;
+}
